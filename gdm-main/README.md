@@ -59,6 +59,5 @@ This project is maintained by:
 - **Sajjad Mohammadbeigi**  [GitHub Profile](https://github.com/sajjad-MoBe)
 - **Mohammad Mohammadbeigi** [GitHub Profile](https://github.com/mbmohammad)
 
-Sajjad implemented manager folder parts and Mohammad implemented TUI folder parts.
-At the end Sajjad connected these parts to each other.
+
 
